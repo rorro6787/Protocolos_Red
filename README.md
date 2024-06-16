@@ -48,7 +48,7 @@ Este proyecto implementa el protocolo UDP (User Datagram Protocol) entre un clie
 
 ## Proyecto 3: Protocolo HTTP
 
-Este proyecto implementa el protocolo UDP (User Datagram Protocol) entre un cliente y un servidor. El cliente envía mensajes al servidor y el servidor responde a cada mensaje recibido.
+Este proyecto implementa un servicio que se conecta a una base de datos a través de HTTP. El servicio realiza un juego de preguntas con el usuario y verifica las respuestas con la base de datos.
 
 ### Cómo Ejecutar
 1. Navega al directorio `src-http`.
