@@ -1,4 +1,4 @@
-# Proyectos de Protocolos de Red: UDP, TCP y HTTP
+# Proyectos de Protocolos de Red: TCP, UDP y HTTP
 
 Este repositorio contiene tres proyectos implementados en Java. Cada uno de ellos aborda un protocolo o servicio diferente. A continuación se describen cada uno de los proyectos y cómo puedes ejecutarlos.
 
