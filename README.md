@@ -10,7 +10,6 @@ Este repositorio contiene tres proyectos implementados en Java. Cada uno de ello
 
 ## Proyecto 1: Protocolo TCP
 
-### Descripción
 Este proyecto implementa el protocolo TCP (Transmission Control Protocol) entre un cliente y un servidor. El cliente establece una conexión con el servidor y pueden intercambiar mensajes de manera confiable.
 
 ### Cómo Ejecutar
@@ -30,7 +29,6 @@ Este proyecto implementa el protocolo TCP (Transmission Control Protocol) entre 
 
 ## Proyecto 2: Protocolo UDP
 
-### Descripción
 Este proyecto implementa el protocolo UDP (User Datagram Protocol) entre un cliente y un servidor. El cliente envía mensajes al servidor y el servidor responde a cada mensaje recibido.
 
 ### Cómo Ejecutar
@@ -50,11 +48,10 @@ Este proyecto implementa el protocolo UDP (User Datagram Protocol) entre un clie
 
 ## Proyecto 3: Protocolo HTTP
 
-### Descripción
 Este proyecto implementa el protocolo UDP (User Datagram Protocol) entre un cliente y un servidor. El cliente envía mensajes al servidor y el servidor responde a cada mensaje recibido.
 
 ### Cómo Ejecutar
-1. Navega al directorio `src-udp`.
+1. Navega al directorio `src-http`.
 2. Compila los archivos Java:
    
    ```sh
